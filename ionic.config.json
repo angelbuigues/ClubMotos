@@ -1,0 +1,7 @@
+{
+  "name": "ClubMotos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
